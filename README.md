@@ -48,17 +48,6 @@ A comprehensive, modern fitness tracking dashboard built with Next.js, featuring
 
 [View Live Demo](https://fitness-tracking-dashboard-ved.vercel.app) *(Replace with your actual deployment URL)*
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+Overview)
-
-### Goal Management
-![Goals](https://via.placeholder.com/800x400/059669/FFFFFF?text=Goal+Management)
-
-### Activity Tracking
-![Activities](https://via.placeholder.com/800x400/DC2626/FFFFFF?text=Activity+Tracking)
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15 with App Router
@@ -208,15 +197,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Ved Narayan**
 - GitHub: [@Ved-Narayan](https://github.com/Ved-Narayan)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile) *(Add your LinkedIn)*
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ved-narayan/)
 
 ## 🙏 Acknowledgments
 
@@ -240,16 +225,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📧 **Questions?** Feel free to open an issue or reach out!
 ```
-
-This comprehensive README provides:
-
-1. **Clear project description** with badges and features
-2. **Installation instructions** with prerequisites
-3. **Usage guide** with step-by-step instructions
-4. **Project structure** overview
-5. **Customization options** for developers
-6. **Deployment instructions** for multiple platforms
-7. **Contributing guidelines** for open source collaboration
-8. **Professional formatting** with emojis and sections
-
-You can customize the placeholder URLs, add your actual LinkedIn profile, and update the live demo link once you deploy the project!
